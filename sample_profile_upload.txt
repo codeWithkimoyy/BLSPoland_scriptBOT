@@ -1,0 +1,115 @@
+# BLS Profile Data Template
+# Format: field_name=value
+# Upload this file to the Tampermonkey script to auto-fill the BLS form
+# Updated for v6.6 with enhanced date handling and automatic flow
+
+# Personal Information
+nationality_id=177
+mobile_number=+639987654321
+email=michael.chen@gmail.com
+surname=Chen
+surname_at_birth=Wong
+place_of_birth=Cebu City
+gender=2
+marital_status=1
+country_of_birth=177
+nationality_at_birth=177
+date_of_birth=1987-11-08
+age=37
+type_of_travel=1
+passport_issue_by=177
+passport_number=P987654321
+
+# Address Information
+country=177
+state_province=Cebu
+postal_code=6000
+street=Colon Street
+house_number=88
+flat_number=12B
+
+# Host Details
+host_type=person
+host_surname=Williams
+host_name=David Williams
+host_country=75
+host_place=Warsaw
+host_postal_code=00-001
+host_street=Krakowskie Przedmieście
+host_house_number=15
+host_flat_number=7A
+host_phone_number=48221234567
+
+# Person/Company Details
+contact_person=Brown
+contact_name=Lisa Brown
+contact_place=Cebu City
+contact_person_postal=6000
+contact_person_street=Osmeña Boulevard
+contact_person_house=99
+contact_person_flat=5C
+contact_person_phone_number=+639987654320
+contact_person_email_add=lisa.brown@gmail.com
+
+# Father Details
+father_name=Robert
+surname_father=Chen
+nationality_of_father=177
+father_country=177
+father_state_province=Cebu
+father_place=Cebu City
+father_postal_codes=6000
+father_street=Colon Street
+father_house_number=88
+father_flat_number=12B
+father_phone_number=+639987654321
+father_email_add=robert.chen@gmail.com
+
+# Mother Details
+mother_name=Maria
+surname_mother=Wong
+nationality_of_mother=177
+mother_country=177
+mother_state_province=Cebu
+mother_place=Cebu City
+mother_postal_codes=6000
+mother_street=Colon Street
+mother_house_number=88
+mother_flat_number=12B
+mother_phone_number=+639987654322
+mother_email_add=maria.wong@gmail.com
+
+# Employer Details
+employer=Digital Innovations Ltd
+surname_employer=Digital Innovations
+employer_country_id=177
+employer_place=Cebu City
+employer_phone_number=+63321234567
+employer_street=IT Park
+employer_house_number=200
+employer_flat_number=30F
+employer_email_add=hr.digitalinnovations@gmail.com
+
+# Travel Details
+destination_countries=75
+border_of_first_entry=Poland
+date_of_arrival=2025-08-20
+date_of_departure=2025-11-15
+occupation=2
+purpose_of_journey=2
+number_of_entry=1
+finger_prints_prev_collected=No
+cost_coverage_id=1
+means_of_support_id=2
+
+# Notes:
+# - Phone numbers must be at least 10 digits (current format: +12345678901 = 12 digits)
+# - Country codes: 177=Philippines, 237=United States, 75=Poland
+# - Gender: 1=Female, 2=Male
+# - Marital Status: 1=Married, 2=Divorced, 3=Single, 4=Widowed
+# - Type of Travel: 1=Ordinary passport, 2=Diplomatic passport, 3=Service passport
+# - Occupation: 1=Student, 2=Employee, 3=Business, 4=Retired, 5=Unemployed
+# - Purpose of Journey: 1=Tourism, 2=Business, 3=Study, 4=Work, 5=Family visit
+# - Number of Entry: 1=Single, 2=Multiple
+# - Cost Coverage: 1=Applicant, 2=Sponsor, 3=Company
+# - Means of Support: 1=Cash, 2=Credit Card, 3=Bank Transfer, 4=Sponsor

@@ -1,0 +1,101 @@
+# BLS Profile Data Template (Sample Fake Profile)
+# Format: field_name=value
+
+# Personal Information
+nationality_id=177
+mobile_number=+639123456789
+email=sophia.martinez@gmail.com
+surname=Martinez
+surname_at_birth=Rodriguez
+place_of_birth=Manila
+gender=1
+marital_status=3
+country_of_birth=177
+nationality_at_birth=177
+date_of_birth=1995-03-12
+age=29
+type_of_travel=1
+passport_issue_by=177
+passport_number=P123456789
+
+# Address Information
+country=177
+state_province=Metro Manila
+postal_code=1000
+street=Ortigas Avenue
+house_number=123
+flat_number=15A
+
+# Host Details
+host_type=person
+host_surname=Anderson
+host_name=James Anderson
+host_country=237
+host_place=New York
+host_postal_code=10001
+host_street=Broadway
+host_house_number=500
+host_flat_number=25B
+host_phone_number=12125551234
+
+# Person/Company Details
+contact_person=Thompson
+contact_name=Sarah Thompson
+contact_place=Manila
+contact_person_postal=1000
+contact_person_street=Ayala Avenue
+contact_person_house=45
+contact_person_flat=8C
+contact_person_phone_number=+639123456780
+contact_person_email_add=sarah.thompson@gmail.com
+
+# Father Details
+father_name=Carlos
+surname_father=Martinez
+nationality_of_father=177
+father_country=177
+father_state_province=Metro Manila
+father_place=Manila
+father_postal_codes=1000
+father_street=Roxas Boulevard
+father_house_number=25
+father_flat_number=3D
+father_phone_number=+639123456781
+father_email_add=carlos.martinez@gmail.com
+
+# Mother Details
+mother_name=Elena
+surname_mother=Rodriguez
+nationality_of_mother=177
+mother_country=177
+mother_state_province=Metro Manila
+mother_place=Manila
+mother_postal_codes=1000
+mother_street=Roxas Boulevard
+mother_house_number=25
+mother_flat_number=3D
+mother_phone_number=+639123456782
+mother_email_add=elena.rodriguez@gmail.com
+
+# Employer Details
+employer=Global Tech Solutions
+surname_employer=Global Tech
+employer_country_id=177
+employer_place=Makati City
+employer_phone_number=+63281234567
+employer_street=Ayala Avenue
+employer_house_number=100
+employer_flat_number=20F
+employer_email_add=hr.globaltech@gmail.com
+
+# Travel Details
+destination_countries=237
+border_of_first_entry=United States
+date_of_arrival=2025-06-15
+date_of_departure=2025-09-30
+occupation=2
+purpose_of_journey=2
+number_of_entry=1
+finger_prints_prev_collected=No
+cost_coverage_id=1
+means_of_support_id=2
